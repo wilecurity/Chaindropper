@@ -93,6 +93,6 @@ Users are solely responsible for complying with all applicable laws and regulati
 
 ## License
 
-Copyright (c) 2026 Matthew Omojola
+Copyright (c) 2026 Wilecurity
 
 Licensed under the Apache License 2.0.
